@@ -1,8 +1,8 @@
 Package: doSNOW
 Type: Package
 Title: Foreach Parallel Adaptor for the 'snow' Package
-Version: 1.0.19
-Authors@R: c(person("Michelle", "Wallig", role="cre", email = "Michelle.Wallig@microsoft.com"), 
+Version: 1.0.20
+Authors@R: c(person("Folashade", "Daniel", role="cre", email="fdaniel@microsoft.com"),
              person("Microsoft", "Corporation", role=c("aut","cph")),
              person("Stephen", "Weston", role="aut"))
 Description: Provides a parallel backend for the %dopar% function using
